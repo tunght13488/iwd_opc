@@ -2,7 +2,8 @@
   "name": "tunght13488/iwd_opc",
   "description": "One Step Checkout",
   "require": {
-    "php": "~5.5.0|~5.6.0|~7.0.0"
+    "php": "~5.5.0|~5.6.0|~7.0.0",
+    "tunght13488/iwd_all": "^2.1"
   },
   "type": "magento2-module",
   "version": "2.0.2",
